@@ -20,7 +20,7 @@ In this lesson we will review the Model View Controller and the Model View View 
 * Implement an Angular controller and attach it using the ng-controller directive
 
 
-#####Lesson 2 Angular Filters: Objectives and Outcomes
+#####Lesson 3 Angular Filters: Objectives and Outcomes
 
 In this lesson you will learn more about Angular filters, and the built-in filters in AngularJS. 
 You will use the filters on expressions and JavaScript object arrays in the exercises. At the end of this module, you will be able to:
